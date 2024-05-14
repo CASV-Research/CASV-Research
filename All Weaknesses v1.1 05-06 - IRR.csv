@@ -1,0 +1,171 @@
+ID,IRR 1,IRR 2,IRR 3,IRR 4,,Count,P_i,biased review,rule deficiencies,other,lack of knowledge,lack of review,strong now wrong,perceptual confusion,post completion,selectivity,overconfidence,complexity,sequencing issues,difficulties with exponents,,,,,,,,,
+400,biased review,rule deficiencies,other,biased review,,4,0.17,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+362,rule deficiencies,other,rule deficiencies,rule deficiencies,,4,0.50,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+798,lack of knowledge,biased review,other,lack of review,,4,0.00,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+787,biased review,rule deficiencies,rule deficiencies,rule deficiencies,,4,0.50,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+287,other,lack of knowledge,biased review,biased review,,4,0.17,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,lack of review,biased review,lack of review,strong now wrong,,4,0.17,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+918,biased review,biased review,biased review,lack of review,,4,0.50,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,perceptual confusion,perceptual confusion,perceptual confusion,perceptual confusion,,4,1.00,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+476,lack of review,perceptual confusion,lack of review,rule deficiencies,,4,0.17,0,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+430,strong now wrong,strong now wrong,biased review,perceptual confusion,,4,0.17,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+474,other,other,lack of knowledge,lack of knowledge,,4,0.33,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+256,lack of knowledge,other,other,lack of review,,4,0.17,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,lack of knowledge,rule deficiencies,rule deficiencies,lack of knowledge,,4,0.33,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,post completion,rule deficiencies,post completion,post completion,,4,0.50,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+601,biased review,other,other,biased review,,4,0.33,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+427,lack of review,rule deficiencies,lack of review,lack of review,,4,0.50,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1068,other,other,other,selectivity,,4,0.50,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+940,biased review,rule deficiencies,lack of review,biased review,,4,0.17,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,strong now wrong,strong now wrong,lack of review,strong now wrong,,4,0.50,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+378,other,other,lack of knowledge,overconfidence,,4,0.17,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+277,selectivity,other,other,lack of review,,4,0.17,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1087,strong now wrong,lack of knowledge,other,strong now wrong,,4,0.17,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1115,other,other,other,selectivity,,4,0.50,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+272,selectivity,post completion,lack of review,selectivity,,4,0.17,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+1109,perceptual confusion,perceptual confusion,complexity,complexity,,4,0.33,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+770,biased review,other,biased review,biased review,,4,0.50,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1100,complexity,complexity,other,complexity,,4,0.50,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+766,biased review,rule deficiencies,rule deficiencies,biased review,,4,0.33,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+253,biased review,post completion,other,biased review,,4,0.17,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,biased review,rule deficiencies,biased review,biased review,,4,0.50,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+425,biased review,biased review,lack of review,biased review,,4,0.50,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,biased review,biased review,lack of review,lack of review,,4,0.33,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,biased review,biased review,biased review,biased review,,4,1.00,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+346,lack of knowledge,rule deficiencies,lack of knowledge,selectivity,,4,0.17,0,1,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+783,perceptual confusion,rule deficiencies,perceptual confusion,rule deficiencies,,4,0.33,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+489,post completion,post completion,lack of review,post completion,,4,0.50,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+939,biased review,other,biased review,biased review,,4,0.50,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+653,complexity,other,complexity,selectivity,,4,0.17,0,0,1,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0
+1119,other,other,other,selectivity,,4,0.50,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+663,lack of knowledge,perceptual confusion,lack of knowledge,lack of knowledge,,4,0.50,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+289,biased review,biased review,biased review,biased review,,4,1.00,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,biased review,biased review,biased review,biased review,,4,1.00,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+483,strong now wrong,strong now wrong,other,perceptual confusion,,4,0.17,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,lack of knowledge,lack of knowledge,lack of knowledge,lack of knowledge,,4,1.00,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+656,other,other,other,overconfidence,,4,0.50,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+909,lack of review,rule deficiencies,rule deficiencies,selectivity,,4,0.17,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+319,other,other,other,lack of knowledge,,4,0.50,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1123,other,other,other,lack of knowledge,,4,0.50,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+348,rule deficiencies,rule deficiencies,lack of knowledge,lack of knowledge,,4,0.33,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,biased review,biased review,biased review,biased review,,4,1.00,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,rule deficiencies,rule deficiencies,rule deficiencies,biased review,,4,0.50,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,biased review,rule deficiencies,biased review,biased review,,4,0.50,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+562,strong now wrong,rule deficiencies,perceptual confusion,perceptual confusion,,4,0.17,0,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,other,other,other,lack of knowledge,,4,0.50,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+640,selectivity,other,other,selectivity,,4,0.33,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+414,lack of knowledge,rule deficiencies,lack of knowledge,perceptual confusion,,4,0.17,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+606,biased review,rule deficiencies,biased review,biased review,,4,0.50,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+170,post completion,post completion,rule deficiencies,post completion,,4,0.50,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+825,rule deficiencies,perceptual confusion,biased review,perceptual confusion,,4,0.17,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+841,lack of knowledge,rule deficiencies,other,lack of knowledge,,4,0.17,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,biased review,rule deficiencies,biased review,biased review,,4,0.50,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,lack of knowledge,other,lack of knowledge,lack of knowledge,,4,0.50,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,other,other,complexity,lack of review,,4,0.17,0,0,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1112,other,other,lack of knowledge,selectivity,,4,0.17,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,rule deficiencies,rule deficiencies,lack of knowledge,rule deficiencies,,4,0.50,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,biased review,biased review,selectivity,biased review,,4,0.50,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+549,other,other,lack of knowledge,selectivity,,4,0.17,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+131,biased review,rule deficiencies,perceptual confusion,perceptual confusion,,4,0.17,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+358,rule deficiencies,rule deficiencies,rule deficiencies,selectivity,,4,0.50,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+565,biased review,biased review,lack of knowledge,biased review,,4,0.50,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+487,other,other,lack of knowledge,other,,4,0.50,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+328,rule deficiencies,lack of knowledge,strong now wrong,lack of knowledge,,4,0.17,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+698,biased review,biased review,lack of knowledge,other,,4,0.17,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+586,lack of knowledge,lack of knowledge,lack of knowledge,lack of knowledge,,4,1.00,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,biased review,rule deficiencies,biased review,rule deficiencies,,4,0.33,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,biased review,rule deficiencies,lack of knowledge,rule deficiencies,,4,0.17,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,biased review,biased review,lack of knowledge,biased review,,4,0.50,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+363,lack of knowledge,lack of knowledge,lack of knowledge,lack of knowledge,,4,1.00,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,other,other,strong now wrong,overconfidence,,4,0.17,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+135,rule deficiencies,rule deficiencies,rule deficiencies,perceptual confusion,,4,0.50,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,other,other,biased review,lack of review,,4,0.17,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,perceptual confusion,perceptual confusion,perceptual confusion,rule deficiencies,,4,0.50,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,lack of knowledge,lack of knowledge,biased review,biased review,,4,0.33,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+805,biased review,rule deficiencies,biased review,biased review,,4,0.50,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,biased review,biased review,lack of knowledge,lack of review,,4,0.17,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+732,other,lack of review,rule deficiencies,lack of review,,4,0.17,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,biased review,rule deficiencies,biased review,rule deficiencies,,4,0.33,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+694,other,other,lack of review,selectivity,,4,0.17,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1127,other,other,other,selectivity,,4,0.50,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1102,lack of knowledge,other,lack of knowledge,biased review,,4,0.17,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,other,other,complexity,selectivity,,4,0.17,0,0,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+369,lack of knowledge,rule deficiencies,biased review,rule deficiencies,,4,0.17,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+697,other,rule deficiencies,rule deficiencies,other,,4,0.33,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+795,lack of knowledge,biased review,biased review,biased review,,4,0.50,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,other,biased review,biased review,biased review,,4,0.50,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,biased review,biased review,lack of knowledge,biased review,,4,0.50,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+693,other,lack of knowledge,lack of knowledge,lack of knowledge,,4,0.50,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+352,other,other,biased review,other,,4,0.50,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+434,other,lack of review,lack of review,lack of review,,4,0.50,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+862,other,lack of review,lack of review,selectivity,,4,0.17,0,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+502,other,lack of review,lack of knowledge,lack of review,,4,0.17,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,other,biased review,biased review,biased review,,4,0.50,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+524,biased review,biased review,other,lack of knowledge,,4,0.17,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,rule deficiencies,other,other,biased review,,4,0.17,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+617,post completion,post completion,post completion,lack of review,,4,0.50,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1074,complexity,complexity,complexity,complexity,,4,1.00,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+1080,other,complexity,complexity,complexity,,4,0.50,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+252,biased review,rule deficiencies,lack of knowledge,overconfidence,,4,0.00,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+480,perceptual confusion,rule deficiencies,perceptual confusion,perceptual confusion,,4,0.50,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+833,post completion,rule deficiencies,overconfidence,biased review,,4,0.00,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+695,lack of knowledge,other,other,lack of knowledge,,4,0.33,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1041,lack of review,other,other,selectivity,,4,0.17,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1079,lack of knowledge,lack of knowledge,lack of knowledge,strong now wrong,,4,0.50,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1063,post completion,other,other,biased review,,4,0.17,1,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+609,strong now wrong,strong now wrong,rule deficiencies,strong now wrong,,4,0.50,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1124,complexity,complexity,complexity,selectivity,,4,0.50,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0
+426,biased review,biased review,lack of review,biased review,,4,0.50,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,other,other,other,other,,4,1.00,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+268,biased review,biased review,complexity,biased review,,4,0.50,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+468,rule deficiencies,perceptual confusion,perceptual confusion,rule deficiencies,,4,0.33,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1082,lack of knowledge,other,lack of knowledge,lack of knowledge,,4,0.50,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+301,biased review,biased review,biased review,other,,4,0.50,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+308,lack of knowledge,other,other,overconfidence,,4,0.17,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+257,lack of knowledge,other,other,lack of knowledge,,4,0.33,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+824,post completion,perceptual confusion,rule deficiencies,perceptual confusion,,4,0.17,0,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+477,biased review,other,other,selectivity,,4,0.17,1,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1113,strong now wrong,other,rule deficiencies,selectivity,,4,0.00,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+605,biased review,biased review,biased review,lack of review,,4,0.50,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+444,rule deficiencies,other,lack of review,other,,4,0.17,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,sequencing issues,rule deficiencies,rule deficiencies,sequencing issues,,4,0.33,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+603,lack of knowledge,overconfidence,overconfidence,post completion,,4,0.17,0,0,0,1,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+532,other,other,lack of knowledge,lack of review,,4,0.17,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+785,biased review,rule deficiencies,biased review,rule deficiencies,,4,0.33,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1333,difficulties with exponents,lack of knowledge,difficulties with exponents,lack of review,,4,0.17,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+233,biased review,biased review,biased review,lack of review,,4,0.50,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1064,complexity,complexity,complexity,complexity,,4,1.00,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+1277,other,other,other,overconfidence,,4,0.50,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1091,post completion,post completion,lack of knowledge,post completion,,4,0.50,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+460,selectivity,post completion,post completion,post completion,,4,0.50,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1320,other,other,other,other,,4,1.00,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+486,biased review,lack of knowledge,lack of knowledge,lack of knowledge,,4,0.50,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1221,lack of knowledge,other,rule deficiencies,other,,4,0.17,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+634,lack of knowledge,lack of knowledge,lack of knowledge,lack of review,,4,0.50,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+708,other,other,other,lack of knowledge,,4,0.50,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+482,perceptual confusion,perceptual confusion,perceptual confusion,perceptual confusion,,4,1.00,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,lack of knowledge,other,lack of knowledge,overconfidence,,4,0.17,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+564,biased review,rule deficiencies,lack of knowledge,other,,4,0.00,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1391,other,other,other,lack of knowledge,,4,0.50,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+911,biased review,rule deficiencies,perceptual confusion,rule deficiencies,,4,0.17,1,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,lack of knowledge,strong now wrong,lack of knowledge,strong now wrong,,4,0.33,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1104,other,other,other,selectivity,,4,0.50,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,biased review,other,lack of review,complexity,,4,0.00,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,p_j,0.21,0.13,0.21,0.15,0.07,0.03,0.06,0.04,0.04,0.02,0.04,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,\bar{P}=:,,0.3903508772,,,,,,,,,,,,,,,,,,,,
+,,,,,,,\bar{P}_e = ,,0.14,,,,,,,,,,,,,,,,,,,,
+,,,,,,,k = ,,0.2902236948,,,,,,,,,,,,,,,,,,,,
